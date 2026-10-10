@@ -52,7 +52,6 @@ Nucleul rețelei care găzduiește serviciile centrale (DNS, RADIUS, DHCP, WEB).
 ---
 
 ## 🔑 Credențiale de Acces (Pentru Evaluare)
-*(Atenție: Aceste credențiale sunt furnizate exclusiv pentru evaluarea în Packet Tracer. Într-un mediu de producție, ele nu ar fi expuse public).*
 
 **Echipamente de Rețea (Routere & Switch-uri CLI)**
 * **Username:** `admin`
