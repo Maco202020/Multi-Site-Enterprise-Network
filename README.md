@@ -51,7 +51,7 @@ Nucleul rețelei care găzduiește serviciile centrale (DNS, RADIUS, DHCP, WEB).
 
 ---
 
-## 🔑 Credențiale de Acces (Pentru Evaluare)
+## 🔑 Acces Echipamente și Autentificare
 
 **Echipamente de Rețea (Routere & Switch-uri CLI)**
 * **Username:** `admin`
